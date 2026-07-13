@@ -1,5 +1,6 @@
 DỰ ÁN ROBOTSUMO 
 I.GIỚI THIỆU
+
 1.Bối cảnh
 - Dự án Sumo Robot là bài tập lớn cuối học phần môn AET2021 - Thí nghiệm trong khoa học kỹ thuật 1 (chuyên ngành Lập trình nhúng & IoT). Đây là một sân chơi kỹ thuật đòi hỏi sinh viên phải vận dụng tổng hợp các kiến thức đã học để giải quyết bài toán thức tế thông qua chế tạo 1 robot tự vận hành hoàn chỉnh.
 
@@ -19,6 +20,7 @@ Nguyễn Vân Tuấn Anh- Thành viên - Thiết lập các kịch bản thử n
 Phạm Tuấn Minh - Thành viên - Cấu hình và đọc xung thời gian phản hồi của cảm biến siêu âm HY-SRF05, lập trình bộ lọc trung bình động loại bỏ nhiễu khoảng cách, thực hiện hàn mạch và kiểm tra sụt áp nguồn nuôi.
 
 II. TỔNG QUAN DỰ ÁN
+
 1.Luật robot sumo
 - Trận đấu diễn ra trên sàn Dohyo hình tròn có đường kính 77 cm, làm bằng gỗ MDF hoặc mica đen nhám với vạch viền trắng rộng 2.5 cm quanh mép ngoài.
 - Thể thức: Thi đấu loại trực tiếp (knockout) theo sơ đồ nhánh cây; mỗi trận đấu theo thể thức Best of 3 (thắng 2 trên 3 hiệp).
