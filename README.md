@@ -15,9 +15,13 @@ I.GIỚI THIỆU
 - Về kỹ năng: Rèn luyện khả năng quản lý dự án, làm việc nhóm và sử dụng các công cụ chuyên nghiệp như GitHub để quản lý mã nguồn.
 
 4. Thành viên trong nhóm
+
 Dương Việt Hoàng - Nhóm trưởng -Chịu trách nhiệm tổng thể về tiến độ, thiết kế mô hình 3D trên Fusion 360, căn chỉnh kích thước cơ khí, xuất file STL và tiến hành in 3D vỏ máy tại Lab; thiết kế sơ đồ đấu dây nguyên lý.
+
 Nguyễn Đăng Anh - Thành viên - Xây dựng cấu trúc máy trạng thái hữu hạn (FSM) trên Arduino IDE, lập trình giải thuật ưu tiên xử lý ngắt cho cảm biến dò line, tối ưu hóa các hàm băm điều khiển góc quay động cơ.
+
 Nguyễn Vân Tuấn Anh- Thành viên - Thiết lập các kịch bản thử nghiệm (Test cases) trên sa bàn thực tế, đo đạc tốc độ và dòng tải động cơ, thu thập số liệu sai số cảm biến, tổng hợp nội dung viết báo cáo kỹ thuật.
+
 Phạm Tuấn Minh - Thành viên - Cấu hình và đọc xung thời gian phản hồi của cảm biến siêu âm HY-SRF05, lập trình bộ lọc trung bình động loại bỏ nhiễu khoảng cách, thực hiện hàn mạch và kiểm tra sụt áp nguồn nuôi.
 
 II. TỔNG QUAN DỰ ÁN
